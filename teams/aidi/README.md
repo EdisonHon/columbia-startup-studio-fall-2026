@@ -11,6 +11,7 @@
 1. Edison Hon (th3210)
 2. Chengyiwei Fu (cf3074)
 3. Jonah Smith (jcs2299)
+4. Handong He (hh3152)
 
 ## Initial Real Problem
 
