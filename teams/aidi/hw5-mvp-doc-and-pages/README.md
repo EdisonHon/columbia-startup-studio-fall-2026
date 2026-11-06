@@ -33,11 +33,9 @@ Each page includes a waitlist call to action. The homepage collects an email add
 
 ## Deployment Status
 
-The initial Railway deployment was blocked by a platform outage on October 23, 2026. The team subsequently selected Render and completed the first deployment on November 1, 2026 using three Singapore resources: a React Web Service, a Django Web Service, and PostgreSQL.
+Aplovia is deployed on Render using three Singapore resources: a React Web Service, a Django Web Service, and PostgreSQL.
 
 The deployment was verified through the public homepage and all three landing-page routes, direct route refreshes, English and Simplified Chinese switching, Django health and database-readiness endpoints, and end-to-end waitlist submissions. Repeated submissions with the same email retained one contact, created separate page-level attribution records, and incremented the submission count for each page as designed.
-
-The current Render resources use free instances for course demonstration and technical validation. The free database is not treated as a durable production store for long-term collection of real user email addresses; a paid database, backups, and recovery verification are required before broader public acquisition.
 
 ## Results
 
