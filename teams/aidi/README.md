@@ -26,5 +26,5 @@ International students applying to U.S. undergraduate programs often struggle to
 | [HW 4 Synthesis and Brand Position](./hw4-synthesis-brand-position/) | Contains the interview synthesis comparison, Reddit research, persona agents, brand position, style guide, logo assets, and coding-repository setup. |
 | [HW 5 MVP Document and Pages](./hw5-mvp-doc-and-pages/) | Contains the MVP product brief and the live Render URLs for the homepage and three value-proposition landing pages, including their audiences, value propositions, routes, and deployment status. |
 | [HW 6 Demand Plan and Analytics](./hw6-demand-plan-and-analytics/) | Contains the team's demand strategy, traffic ownership, community outreach evidence, and planned social, blog, and email publishing schedules. |
-| [Usability Tests](./usability-tests/) | Contains weekly usability test plans, participant observations, recurring findings, product decisions, and follow-up validation questions. |
-| [Weekly Updates](./weekly-updates/) | Contains the team's weekly accountability, planning, user-count reporting, and current blockers. |
+| [HW 7 Usability Testing](./hw7-usability-testing/) | Contains three real-user session notes and the team's usability synthesis, including recurring findings, prioritized product changes, and deferred ideas. |
+| [Weekly Update - November 6, 2026](./weekly_update_2026-11-06.md) | Summarizes the team's build, growth, analysis, research, next-week plan, and current blockers. |
